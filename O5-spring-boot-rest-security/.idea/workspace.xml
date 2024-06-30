@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d276435a-e469-43a0-a113-410ab02cc03a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../O4-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/crudedemo/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../O4-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/crudedemo/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../O4-spring-boot-rest-crud/03-spring-boot-rest-crud-employee-with-spring-data-jpa/src/main/java/com/luv2code/springboot/crudedemo/dao/EmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../O4-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/crudedemo/dao/EmployeeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../O4-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/crudedemo/dao/EmployeeDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../O4-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/crudedemo/dao/EmployeeDAOJpaImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../O4-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/crudedemo/dao/EmployeeDAOJpaImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../O4-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/crudedemo/rest/EmployeeRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../O4-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/crudedemo/rest/EmployeeRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../O4-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../O4-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../O4-spring-boot-rest-crud/spring-boot-employee-sql-script/employee-directory.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../O4-spring-boot-rest-crud/spring-boot-employee-sql-script/employee-directory.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2idWUQvMPQ7bNRFTFShIQVB7Yjm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d276435a-e469-43a0-a113-410ab02cc03a" name="Changes" comment="" />
+      <created>1719820949629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719820949629</updated>
+    </task>
+    <servers />
+  </component>
+</project>
